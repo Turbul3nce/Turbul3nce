@@ -8,7 +8,7 @@
 
 ```json
 {
-  "name": "Chandler Rose",
+  "name": "Chandler",
   "handle": "Turbul3nce",
   "ctfteam": "NotARedTeam",
   "role": "Red Team Operator",
