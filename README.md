@@ -17,6 +17,6 @@
 ```
 <div align="left">
 
-[HackTheBox](https://app.hackthebox.com/profile/badges/1055111)  [YouTube](https://www.youtube.com/channel/UCmX-WqhGSMDbBSs9nHjF-wA)  [Website](https://bugculture.io) 
+👾[HackTheBox](https://app.hackthebox.com/profile/badges/1055111) 🎥[YouTube](https://www.youtube.com/channel/UCmX-WqhGSMDbBSs9nHjF-wA)  📈[Website](https://bugculture.io) 
 <br>
 <br>
