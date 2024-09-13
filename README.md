@@ -11,7 +11,9 @@
   "name": "Chandler",
   "handle": "Turbul3nce",
   "ctfteam": "NotARedTeam",
-  "role": "Red Team Operator",
+  "role": "Red Team Operator"
+  "role": "Security Engineer",
+  "role": "Researcher",
   "Active": sometimes
 }
 ```
