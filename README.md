@@ -23,35 +23,20 @@
     { "name": "Pentest+", "status": "Active" }
   ],
   "experience": {
-    "Red Team Operator (Securifera)": {
-      "achievements": [
-        "Just happy to be here.",
-      ]
-    },
-    "Security Engineer (Blue Team Alpha)": {
-      "achievements": [
-        ".",
-      ]
-    },
-    "Level 2 Researcher (Synack Red Team)": {
-      "achievements": [
-        "Bug Hunting"
-      ]
-    },
-    "Researcher (HackerOne)": {
-      "profile": "https://hackerone.com/turbul3nce?type=user",
-      "achievements": [
-        "Bug Hunting"
-      ]
-    },
-    "HackTheBox": {
-      "rank": "Pro Hacker 🏆",
-      "achievements": [
-        "Completed DANTE, OFFSHORE, ZEPHYR Pro Labs"
-      ]
-    }
+    "Red Team Operator": "Securifera",
+    "Security Engineer": "Blue Team Alpha",
+    "Level 2 Researcher": "Synack Red Team",
+    "Researcher": "HackerOne",
+    "profile": "https://hackerone.com/turbul3nce?type=user"
+  },
+  "HackTheBox": {
+    "rank": "Pro Hacker 🏆",
+    "achievements": [
+      "Completed DANTE, OFFSHORE, ZEPHYR Pro Labs"
+    ]
   }
 }
+
 
 
 ```
