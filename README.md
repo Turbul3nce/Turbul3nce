@@ -11,7 +11,7 @@
   "roles": [
     "Red Team Operator 🛡️",
     "Security Engineer 🔒",
-    "Cybersecurity Researcher 🧠"
+    "Vulnerability Researcher 🧠"
   ],
   "certifications": [
     { "name": "OSCP", "status": "Active" },
@@ -32,7 +32,7 @@
   "HackTheBox": {
     "rank": "Pro Hacker 🏆",
     "achievements": [
-      "Completed DANTE, OFFSHORE, ZEPHYR Pro Labs"
+      "ProLabs: DANTE, OFFSHORE, ZEPHYR Pro Labs"
     ]
   }
 }
